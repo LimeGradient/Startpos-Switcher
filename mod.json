@@ -1,5 +1,5 @@
 {
-	"geode": "4.2.0",
+	"geode": "4.3.0",
 	"gd": {
 		"win": "2.2074",
 		"mac": "2.2074",
@@ -8,8 +8,11 @@
 	},
 	"id": "capeling.startpos_switcher",
 	"name": "Startpos Switcher",
-	"version": "v1.0.7",
-	"developer": "Capeling",
+	"version": "v1.1.0",
+	"developers": [
+		"LimeGradient",
+		"Capeling"
+	],
 	"description": "Just a startpos switcher",
 	"settings": {
 		"opacity":{
@@ -43,12 +46,12 @@
 		}
 	},
 	"links": {
-		"homepage": "https://x.com/capeling_",
-		"source": "https://github.com/Capeling/Startpos-Switcher"
+		"homepage": "https://x.com/limegradient",
+		"source": "https://github.com/LimeGradient/Startpos-Switcher"
 	},
 	"issues": {
 		"info": "If you have an issue with the mod please report it here!",
-		"url": "https://github.com/Capeling/Startpos-Switcher/issues"
+		"url": "https://github.com/LimeGradient/Startpos-Switcher/issues"
 	},
 	"tags": [
 		"enhancement",
