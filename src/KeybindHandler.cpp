@@ -1,3 +1,4 @@
+#ifndef GEODE_IS_IOS
 #include <geode.custom-keybinds/include/Keybinds.hpp>
 
 using namespace keybinds;
@@ -27,3 +28,4 @@ $execute {
         false
     });
 }
+#endif
